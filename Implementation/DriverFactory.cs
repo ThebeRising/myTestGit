@@ -3,7 +3,7 @@ using Gauge.CSharp.Lib.Attribute;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
-using OpenQA.Selenium.ChromeDriver;
+using OpenQA.Selenium.Chrome;
 
 namespace Gauge.Example.Implementation
 {
